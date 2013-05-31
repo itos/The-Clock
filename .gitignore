@@ -1,0 +1,15 @@
+# Ignore The following directories / file extensions
+Library
+Library/*
+Temp
+Build
+
+# Ignore the following file extensions
+*.exe
+*.vcproject
+*.sln
+.DS_Store
+*.csproj
+*.sln
+*.userprefs
+*.pidb
